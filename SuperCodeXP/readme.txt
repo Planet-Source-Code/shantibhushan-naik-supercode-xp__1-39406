@@ -1,0 +1,1 @@
+Unzip the zip file to a seperate folder and run "setup.bat" for an automated installation.
